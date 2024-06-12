@@ -20,8 +20,8 @@ My name is Muhammad Rizki Ramadhan.
 </summary>
   
 <br>
-<a href="https://www.instagram.com/rizkii.018" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="rizkiramadhan281878@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-
+[![Mail Badge](https://img.shields.io/badge/-@rizkii.018-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rizkii.018) 
+ [![Mail Badge](https://img.shields.io/badge/-rizkiramadhan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rizkiramadhan281878@gmail.com)
+  
 
 </details>
