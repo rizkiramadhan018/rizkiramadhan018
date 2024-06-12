@@ -14,17 +14,9 @@ My name is Muhammad Rizki Ramadhan.
 ```
 
 
-#### Programs that I know little
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![CSS3 Badge](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=node.js)](#) 
-[![Python Badge](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)](#)
-
-
 <details>
 <summary>
-   Contact Me:
+   Contact Me :
 </summary>
   
 <br>
