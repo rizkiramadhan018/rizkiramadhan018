@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-<img src="https://c.top4top.io/p_30856jeb00.jpg" width="600" height="330"/>
+<img src="https://c.top4top.io/p_30856jeb00.jpg" width="500" height="300"/>
 </p>
 
 
