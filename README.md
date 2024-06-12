@@ -24,7 +24,7 @@ My name is Muhammad Rizki Ramadhan.
 
 <details>
 <summary>
-  • Contact Me:
+   Contact Me:
 </summary>
   
 <br>
